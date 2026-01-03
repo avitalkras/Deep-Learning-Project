@@ -1,0 +1,50 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data files (uncomment if you don't want to track data)
+# *.csv
+# *.h5
+# *.pkl
+# *.pickle
+# data/
+# datasets/
+
+# Model files (uncomment if you don't want to track trained models)
+# *.h5
+# *.pt
+# *.pth
+# models/
+# checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
