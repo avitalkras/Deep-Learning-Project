@@ -48,3 +48,8 @@ logs/
 .env
 .env.local
 
+
+# Model files and validation runs - too large for GitHub
+Validation_run_for_part_B/
+*.pth
+*.pkl
